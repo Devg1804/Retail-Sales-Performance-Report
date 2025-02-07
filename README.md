@@ -33,11 +33,11 @@ The notebook performs the following tasks:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Target-Sales-Analysis-Brazil.git
+   git clone https://github.com/yourusername/Retail-Sales-Performance-Report.git
 
 2. Navigate to the project directory:
    ```bash
-    cd Target-Sales-Analysis-Brazil
+    cd Retail-Sales-Performance-Report
 
 3. Open the Jupyter Notebook to start the analysis:
     ```bash
