@@ -1,4 +1,5 @@
 # Retail-Sales-Performance-Report
+
 ## Overview
 
 This repository contains a comprehensive analysis of Target's sales data in Brazil, focusing on orders placed between 2016 and 2018. The analysis utilizes SQL queries and Python visualization libraries to explore various aspects of the dataset, including order status, pricing, payment and shipping performance, customer locations, product attributes, and customer reviews.
@@ -44,3 +45,7 @@ The notebook performs the following tasks:
 
 ## Example Visualizations
 Here’s an example of one of the visualizations from the analysis:
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
